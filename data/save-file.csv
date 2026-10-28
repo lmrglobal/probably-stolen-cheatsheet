@@ -1,0 +1,9 @@
+item,value,source
+Windows save path,"%USERPROFILE%\AppData\LocalLow\Questing Goose Studio\Probably Stolen",SteamDB cloud-save configuration page
+Save format,".es3 (Unity Easy Save 3)",Official / SteamDB configuration
+Cloud sync,Steam Cloud supported,Official
+Demo save transfer,"Compatible with 1.0, but starting a new game is recommended",Official announcement
+Sleep black screen,"Save is being written; do not Alt+F4",Official patch notes
+Ultrawide UI,"Fixed in the September patch",Official patch notes
+Demo availability,"Delisted from Steam when 1.0 launches",Official announcement
+Demo-era mods,"Not compatible with 1.0; Workshop, Mod API and mod localisation are native",Official announcement

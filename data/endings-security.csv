@@ -1,0 +1,7 @@
+topic,verified_rule,not_published
+Win condition,"Buy the shop from the landlord before the rising weekly rent buries you",Required amount
+Endgame stats,"Most profitable sale, days survived, total worth, perks unlocked",No
+Sentinel Collapse Disorder,"Do not take it on a first run; it can very easily kill a save",Trigger chance and collapse details
+Security visit timing,"The officer arrives the next morning after an investigation ends",No
+Fine vs arrest,"Decided when the officer reaches the shop, based on the evidence value at that moment",Evidence values and thresholds
+Avoiding arrest,"Clear evidence with a fixer (Wild) the night before, or let it decay below the fine line",Decay rate and fine amount
